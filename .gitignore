@@ -15,7 +15,7 @@ local.properties
 .recommenders
 .target/
 
-# ignore properties file
+# ignore properties file 나중에 클론 후 추가할 파일=>(db.properties)
 config.properties
 
 # External tool builders
